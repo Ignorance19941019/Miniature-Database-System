@@ -1,7 +1,7 @@
 # Project: A miniature relational database with order
 
 ## 
-
+This the course project for DSGA 2433 - Database Systems at NYU.
 
 ### Prerequisites
 
@@ -20,8 +20,6 @@ python3 main.py test.txt
 
 ```
 
-The program will print the running time for each single query and produce a text file of the result table (if the input query generates one). After all queres done, it will also produce a file containing all reuslting tables called 'nl1668_lz1883_AllOperations'.  This program assumes 'sales1.txt' and 'sales2.txt' to be in the same directory as test.txt, util.py and main.py. 
-
-We tried to run our .rpz on crunchy5, but got an error. But we could run this .rpz from other seperate liunux machines, we have attached a screenshot of us running .rpz in a seperate unzip envirnment. 
+The program will print the running time for each single query and produce a text file of the result table (if the input query generates one).  This program assumes 'sales1.txt' and 'sales2.txt' to be in the same directory as test.txt, util.py and main.py. 
 
 
